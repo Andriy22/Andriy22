@@ -218,31 +218,6 @@ FullStack Developer🧊
   </tr> 
 </table>
 
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-</table>
-
-> Other
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
-      </a>
-      <br>electron
-    </td>
-  </tr> 
-</table>
 
 ## ☄️ Contact
 - :robot: &nbsp;**[Discord](https://discord.com/users/530130197274558465)**
