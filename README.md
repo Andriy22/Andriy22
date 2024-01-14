@@ -1,16 +1,4 @@
-<a href="https://github.com/siberiacancode">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
-      siberiacancode" align="center"/>
-</a>
-
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
-
-<div>
-<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
-<a href="https://www.twitch.tv/siberiacancode/">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
-</div>
+<h1 align="left">:wave: Hello there! I'm Andrii</h1>
 
 <br>
 
