@@ -223,3 +223,5 @@ FullStack Developer🧊
 - :robot: &nbsp;**[Discord](https://discord.com/users/530130197274558465)**
 - :comet: &nbsp;**[Github](https://github.com/andriy22)**
 <br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=andriy22&theme=radical&layout=compact)
