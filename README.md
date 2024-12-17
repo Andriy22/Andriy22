@@ -224,4 +224,4 @@ FullStack Developer🧊
 - :comet: &nbsp;**[Github](https://github.com/andriy22)**
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=andriy22&theme=highcontrast&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=andriy22&theme=calm_pink&layout=compact)
